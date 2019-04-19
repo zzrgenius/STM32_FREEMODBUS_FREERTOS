@@ -1,0 +1,1 @@
+//uwCRCValue = HAL_CRC_Calculate(&CrcHandle, (uint32_t *)aDataBuffer, BUFFER_SIZE);
